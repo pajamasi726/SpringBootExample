@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Example01_Batch.iml" filepath="$PROJECT_DIR$/.idea/modules/Example01_Batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Example01_Batch_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Example01_Batch_main.iml" group="Example01_Batch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Example01_Batch_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Example01_Batch_test.iml" group="Example01_Batch" />
+    </modules>
+  </component>
+</project>
